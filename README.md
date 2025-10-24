@@ -1,2 +1,3 @@
 # Advanced-Digital-Protection-Control
-Advanced Digital Protection Control (ADPC)
+The Advanced Digital Protection Control (ADPC) is designed as a bidirectional and human-compatible communication mechanism to address the significant gaps in digital protection – specifically the control and management of data, procedures, and user interfaces concerning digital protection. These components are currently predominantly designed, developed, maintained, and controlled by data controllers, creating an imbalance of power with significant societal repercussions. The ADPC is not merely a technical solution, but a socio-cognitive-techno-legal framework embedded within the complex ecosystems of digital protection. It necessitates support from diverse interdisciplinary perspectives for adoption, to achieve its transformational goals, and to undergo continuous improvement.
+
